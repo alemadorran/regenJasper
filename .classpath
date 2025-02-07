@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/castor.jar"/>
+	<classpathentry kind="lib" path="src/commons-beanutils-1.10.0.jar"/>
+	<classpathentry kind="lib" path="src/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="src/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.3.4.jar"/>
+	<classpathentry kind="lib" path="src/displaytag-1.1.jar"/>
+	<classpathentry kind="lib" path="src/itext-4.2.0.jar"/>
+	<classpathentry kind="lib" path="src/jasperreports-5.6.1.jar"/>
+	<classpathentry kind="lib" path="src/jasperreports-fonts-5.6.1.jar"/>
+	<classpathentry kind="lib" path="src/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="src/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="src/mail.jar"/>
+	<classpathentry kind="lib" path="src/lib/castor.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-beanutils-1.10.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.3.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/displaytag-1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/itext-4.2.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/jasperreports-5.6.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/jasperreports-fonts-5.6.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="src/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
